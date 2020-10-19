@@ -1,0 +1,6 @@
+test\BaseTest.class
+test\CreateCusTest.class
+test\LoginTest.class
+pages\CreateCustomerPage.class
+pages\LoginPage.class
+pages\HomePage.class
