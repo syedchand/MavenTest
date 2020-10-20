@@ -9,6 +9,7 @@ public class CreateCusTest extends BaseTest{
 	
 	WebDriver driver = BaseTest.driver;
 	
+	
 	@Test
 	public void createcustomer() throws Exception {
 		
@@ -20,5 +21,9 @@ public class CreateCusTest extends BaseTest{
 		
 		
 	}
+	
+	//Chand
+	
+	//Chand
 
 }

@@ -24,8 +24,8 @@ public class LoginTest extends BaseTest {
 	
 	WebDriver driver = BaseTest.driver;
 	
-	
-	@Test
+	//maventest
+	@Test 
 	public void LoginTest() throws Exception {
 		
 		System.out.println("Inside Test");
